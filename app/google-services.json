@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "438593899124",
+    "firebase_url": "https://opptiapp.firebaseio.com",
+    "project_id": "opptiapp",
+    "storage_bucket": "opptiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438593899124:android:5cba4c735ced5eadb35f21",
+        "android_client_info": {
+          "package_name": "com.serhatyurdakul.opptiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438593899124-erumu38vjqluj2po3176a24b27mifee7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9xluVcQWhp5uF-CcfMWIm4cSPMr8jfIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438593899124-erumu38vjqluj2po3176a24b27mifee7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
